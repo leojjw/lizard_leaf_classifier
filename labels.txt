@@ -1,4 +1,2 @@
 0 lizard
 1 leaves
-2 tree
-3 cars
